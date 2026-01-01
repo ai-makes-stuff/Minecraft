@@ -49,3 +49,4 @@ pytest
 ```
 
 The test suite checks the most important mechanics, such as terrain generation, inventory management, and crafting.
+do not run game.py and run main.py
